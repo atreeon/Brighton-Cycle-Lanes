@@ -37,6 +37,9 @@ Description: See images and map, solves #1
    
 Tools
 --
-Google my maps is very good for creating a route, adding places
+####Google my maps
+Very good for creating a route, highlighting points and areas and pictures related to specific areas.
 
-Possibly prefer uploading KML / KMZ files and showing history of the KML code
+For each 'suggestion', create a new layer in your map, prefix the layer description with the github id. 
+
+It supports uploading KML / KMZ files, if anyone wants the KML / KMZ files can be added into github and history tracked.
