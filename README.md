@@ -35,3 +35,8 @@ Title:
 
 Description: See images and map, solves #1 
    
+Tools
+--
+Google my maps is very good for creating a route, adding places
+
+Possibly prefer uploading KML / KMZ files and showing history of the KML code
