@@ -10,14 +10,14 @@ The design should be open for all to suggest alterations and comment on other su
 
 Methodology
 --
-Keep problems and solutions separate
+Keep problems and suggestions separate
 
 1. If there is an issue with a part of the layout create an issue labelled as PROBLEM
-2. If you have a potential solution then link to the above problem with a SUGGESTION
+2. If you have a potential suggestion then link to the above problem with a SUGGESTION
 
-This way we separate our problems from our solutions and don't confuse the two.  A problem can have many different solutions.  A solution can aim to remedy many different solutions.
+This way we separate our problems from our suggestions and don't confuse the two.  A problem can have many different suggestions.  A suggestion can aim to remedy many different suggestions.
 
-Each solution or problem can be commented on many times.
+Each suggestion or problem can be commented on many times and referenced many times.  Small problems and small solutions are preferred and can then be grouped together and linked to form larger problems and solutions.
 
 Example
 --
