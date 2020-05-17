@@ -37,7 +37,7 @@ Description: See images and map, solves #1
    
 Tools
 --
-####Google my maps
+#### Google my maps
 Very good for creating a route, highlighting points and areas and pictures related to specific areas.
 
 For each 'suggestion', create a new layer in your map, prefix the layer description with the github id. 
@@ -46,9 +46,9 @@ It supports uploading KML / KMZ files, if anyone wants the KML / KMZ files can b
 
 Current Maps
 --
-####Atreeon
+#### Atreeon
 Map A
 https://www.google.com/maps/d/u/0/viewer?mid=1HIpTMgLh1-NFl5CZM6C1JlwvaE4mZS5k&ll=50.8319468435746%2C-0.13513640156588735&z=17
 
-Map B
+#### Map B
 https://www.google.com/maps/d/u/0/edit?mid=1ORPxQOfVljOVOjfZUJG1jHURdfAajwks&ll=50.835270705005115%2C-0.15683245000002444&z=13
