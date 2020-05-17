@@ -44,6 +44,13 @@ For each 'suggestion', create a new layer in your map, prefix the layer descript
 
 It supports uploading KML / KMZ files, if anyone wants the KML / KMZ files can be added into github and history tracked.
 
+Etiquette
+--
+Only constructive criticism
+Always be respectful to one another
+No mention of politics and partys here
+No bullying
+
 Current Maps
 --
 #### Atreeon
