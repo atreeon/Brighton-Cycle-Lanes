@@ -46,10 +46,10 @@ It supports uploading KML / KMZ files, if anyone wants the KML / KMZ files can b
 
 Etiquette
 --
-Only constructive criticism
-Always be respectful to one another
-No mention of politics and partys here
-No bullying
+* Only criticise constructively
+* Always be respectful to one another
+* No mention of politics and partys here
+* No bullying
 
 Current Maps
 --
