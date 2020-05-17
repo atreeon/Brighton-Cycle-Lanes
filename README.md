@@ -50,5 +50,5 @@ Current Maps
 Map A
 https://www.google.com/maps/d/u/0/viewer?mid=1HIpTMgLh1-NFl5CZM6C1JlwvaE4mZS5k&ll=50.8319468435746%2C-0.13513640156588735&z=17
 
-#### Map B
+Map B
 https://www.google.com/maps/d/u/0/edit?mid=1ORPxQOfVljOVOjfZUJG1jHURdfAajwks&ll=50.835270705005115%2C-0.15683245000002444&z=13
