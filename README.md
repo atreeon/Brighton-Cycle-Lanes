@@ -5,7 +5,12 @@ Description
 ---
 A collection of various changes to street design and discussions.
 
-https://github.com/atreeon/brighton-street-design#current-maps
+1. Ethos
+2. Methodology
+3. Example New Issue
+4. Tools
+5. Etiquette
+6. Current Maps
 
 Ethos
 --
@@ -22,7 +27,7 @@ This way we separate our problems from our suggestions and don't confuse the two
 
 Each suggestion or problem can be commented on many times and referenced many times.  Small problems and small solutions are preferred and can then be grouped together and linked to form larger problems and solutions.
 
-Example
+Example New Issue
 --
 Issue 2
 
