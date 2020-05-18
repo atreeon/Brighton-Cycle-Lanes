@@ -1,8 +1,11 @@
 brighton-street-design project
 --
+
 Description
 ---
-A collection of various changes to street design and discussions
+A collection of various changes to street design and discussions.
+
+https://github.com/atreeon/brighton-street-design#current-maps
 
 Ethos
 --
@@ -51,7 +54,7 @@ Etiquette
 * No mention of politics and partys here
 * No bullying
 
-Current Maps
+Existing Maps
 --
 #### Atreeon
 Map A
